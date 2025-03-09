@@ -8,7 +8,7 @@ Specializing in building exceptional digital experiences.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [abdelrahman-abdelmoaty.com](http://abdelrahman-abdelmoaty.com/)
-* ✉️  You can contact me at [abdelrahman.abdelmoaty.abdelbaky@gmail.com](mailto:abdelrahman.abdelmoaty.abdelbaky@gmail.com)
+* ✉️  You can contact me at [contact@abdelrahman-abdelmoaty.com](mailto:contact@abdelrahman-abdelmoaty.com)
 
 ### Skills
 
