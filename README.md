@@ -8,7 +8,7 @@ Specializing in building exceptional digital experiences.
 
 * 🖥️  See my portfolio at [abdelrahman-abdelmoaty.com](http://abdelrahman-abdelmoaty.com/)
 * ✉️  You can contact me at [contact@abdelrahman-abdelmoaty.com](mailto:contact@abdelrahman-abdelmoaty.com)
-
+<!---
 ### Skills
 
 
@@ -20,3 +20,6 @@ Specializing in building exceptional digital experiences.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/abdelrahman-abdelmoaty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdelrahman-abdelmoaty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+-->
